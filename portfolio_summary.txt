@@ -1,0 +1,7 @@
+TSLA: 40 shares @ Rs 250 each
+AMZN: 20 shares @ Rs 3500 each
+TCS: 44 shares @ Rs 3825 each
+NFLX: 70 shares @ Rs 600 each
+AAPL: 66 shares @ Rs 180 each
+
+Total Investment: Rs 302,180.00

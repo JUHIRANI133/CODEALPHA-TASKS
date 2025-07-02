@@ -1,0 +1,126 @@
+[2025-06-30 20:28:08] You: hello
+[2025-06-30 20:28:08] Jas_Bot: Hi there! How can I help you today?
+
+[2025-06-30 20:28:43] You: good morning
+[2025-06-30 20:28:43] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:35:12] You: python -u "c:\PROGRAMMING\PYTHON\PROJECTS\chatbot.py"
+[2025-06-30 20:35:12] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:35:17] You: byee
+[2025-06-30 20:35:17] Jas_Bot: Goodbye! Have a great day.
+
+[2025-06-30 20:35:40] You: hiiiiii
+[2025-06-30 20:35:40] Jas_Bot: Hello! How can I assist you?
+
+[2025-06-30 20:35:54] You: how are you
+[2025-06-30 20:35:54] Jas_Bot: I'm running smoothly—thanks for asking. How about you?
+
+[2025-06-30 20:36:08] You: who are you
+[2025-06-30 20:36:08] Jas_Bot: I'm Jas_Bot—your simple rule‑based chatbot assistant.
+
+[2025-06-30 20:36:19] You: i am fine
+[2025-06-30 20:36:19] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:36:29] You: thanks
+[2025-06-30 20:36:29] Jas_Bot: You're welcome!
+
+[2025-06-30 20:36:44] You: what is your favourite color
+[2025-06-30 20:36:44] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:36:53] You: byeee
+[2025-06-30 20:36:53] Jas_Bot: Goodbye! Have a great day.
+
+[2025-06-30 20:40:41] You: hii
+[2025-06-30 20:40:41] Jas_Bot: Hello! How can I assist you?
+
+[2025-06-30 20:40:47] You: good morning
+[2025-06-30 20:40:47] Jas_Bot: Good morning! Hope your day starts great.
+
+[2025-06-30 20:40:57] You: how are you
+[2025-06-30 20:40:57] Jas_Bot: I'm running smoothly—thanks for asking. How about you?
+
+[2025-06-30 20:41:04] You: i am fine
+[2025-06-30 20:41:04] Jas_Bot: Good to hear that!
+
+[2025-06-30 20:41:17] You: what is your favourite color
+[2025-06-30 20:41:17] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:44:09] You: byee
+[2025-06-30 20:44:09] Jas_Bot: Goodbye! Have a great day.
+
+[2025-06-30 20:44:24] You: good morning
+[2025-06-30 20:44:24] Jas_Bot: Good morning! Hope your day starts great.
+
+[2025-06-30 20:44:36] You: how are you
+[2025-06-30 20:44:36] Jas_Bot: I'm running smoothly—thanks for asking. How about you?
+
+[2025-06-30 20:44:49] You: i am also fine
+[2025-06-30 20:44:49] Jas_Bot: Good to hear that!
+
+[2025-06-30 20:44:58] You: what is your name
+[2025-06-30 20:44:58] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:49:40] You: python -u "c:\PROGRAMMING\PYTHON\PROJECTS\chatbot.py"
+[2025-06-30 20:49:40] Jas_Bot: Sorry, I didn't understand that. Could you rephrase?
+
+[2025-06-30 20:49:49] You: byee
+[2025-06-30 20:49:49] Jas_Bot: Goodbye! Have a great day.
+
+[2025-06-30 20:50:10] You: good morning
+[2025-06-30 20:50:10] Jas_Bot: Good morning! Hope your day starts great.
+
+[2025-06-30 20:50:20] You: how are you
+[2025-06-30 20:50:20] Jas_Bot: I'm running smoothly—thanks for asking. How about you?
+
+[2025-06-30 20:52:23] You: i am fine
+[2025-06-30 20:52:23] Jas_Bot: Good to hear that!
+
+[2025-06-30 20:52:35] You: what is your name
+[2025-06-30 20:52:35] Jas_Bot: Myself Jas_Bot your chatbot 
+
+[2025-06-30 20:52:52] You: what are you upto these days
+[2025-06-30 20:52:52] Jas_Bot: Nothing great just answering your queries
+
+[2025-06-30 20:53:18] You: what is the weather today
+[2025-06-30 20:53:18] Jas_Bot: it is good you can go for any work
+
+[2025-06-30 20:53:32] You: its nice to talk to you
+[2025-06-30 20:53:32] Jas_Bot: I am glad to have a conversation with you 
+
+[2025-06-30 20:53:39] You: see you soon
+[2025-06-30 20:53:39] Jas_Bot: 
+
+[2025-06-30 20:54:12] You: see you soon
+[2025-06-30 20:54:12] Jas_Bot: 
+
+[2025-06-30 20:54:16] You: byee
+[2025-06-30 20:54:16] Jas_Bot: Goodbye! Have a great day.
+
+[2025-07-02 15:30:29] You: hello
+[2025-07-02 15:30:29] Jas_Bot: Hi there! How can I help you today?
+
+[2025-07-02 15:30:36] You: good morning
+[2025-07-02 15:30:36] Jas_Bot: Good morning! Hope your day starts great.
+
+[2025-07-02 15:30:43] You: how are you
+[2025-07-02 15:30:43] Jas_Bot: I'm running smoothly—thanks for asking. How about you?
+
+[2025-07-02 15:30:51] You: i am good
+[2025-07-02 15:30:51] Jas_Bot: Good to hear that!
+
+[2025-07-02 15:31:04] You: what is the weather today
+[2025-07-02 15:31:04] Jas_Bot: it is good you can go for any work
+
+[2025-07-02 15:31:21] You: what are you upto these days
+[2025-07-02 15:31:21] Jas_Bot: Nothing great just answering your queries
+
+[2025-07-02 15:31:31] You: nice to talk to you
+[2025-07-02 15:31:31] Jas_Bot: I am glad to have a conversation with you 
+
+[2025-07-02 15:31:43] You: see you soon
+[2025-07-02 15:31:43] Jas_Bot: sure anytime at your service
+
+[2025-07-02 15:31:49] You: byee
+[2025-07-02 15:31:49] Jas_Bot: Goodbye! Have a great day.
+
